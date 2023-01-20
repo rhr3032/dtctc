@@ -1,5 +1,5 @@
 # Digital Technology Computer Training Center | DTCTC 🌸
-## [Preview](https://rhr3032.github.io/MiNi-Portfolio/) | [UI Design](#)
+## [Preview](https://rhr3032.github.io/dtctc/) | [UI Design](#)
 
 
 ### Digital Technology Computer Training Center | DTCTC 🌸
